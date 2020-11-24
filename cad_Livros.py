@@ -1,4 +1,4 @@
-#código 6 rafgds
+#código 7 rafgds
 
 print("-----------Cadastro de Livros----------")
 inventario=[]
